@@ -1,1 +1,3 @@
 # python-templete
+
+pythonのテンプレートです。
